@@ -7,4 +7,4 @@
     if (!$con){
         die('Connect Error: ' .mysqli_connect_errno());
     }
-?>
+?> 
